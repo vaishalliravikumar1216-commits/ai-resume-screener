@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+pdfplumber
+scikit-learn
+nltk
+plotly
+altair<5
